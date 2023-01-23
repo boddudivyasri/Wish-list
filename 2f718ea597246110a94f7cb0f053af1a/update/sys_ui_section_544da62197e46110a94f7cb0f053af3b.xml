@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="544da62197e46110a94f7cb0f053af3b" sys_domain="global" table="x_892775_wish_list_wish_item" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>requester</element>
+            <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-22 13:13:16</sys_created_on>
-            <sys_id>873f66a197e46110a94f7cb0f053af3e</sys_id>
+            <sys_created_on>2023-01-22 13:17:23</sys_created_on>
+            <sys_id>1320faa197e46110a94f7cb0f053afb7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_892775_wish_list_wish_item" sys_domain="global" view="Default view">544da62197e46110a94f7cb0f053af3b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-22 13:13:16</sys_updated_on>
+            <sys_updated_on>2023-01-22 13:17:23</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>item</element>
+            <element>requester</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-22 13:13:16</sys_created_on>
-            <sys_id>0b3f66a197e46110a94f7cb0f053af3e</sys_id>
+            <sys_created_on>2023-01-22 13:17:23</sys_created_on>
+            <sys_id>1f2076e197e46110a94f7cb0f053aff7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_892775_wish_list_wish_item" sys_domain="global" view="Default view">544da62197e46110a94f7cb0f053af3b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-22 13:13:16</sys_updated_on>
+            <sys_updated_on>2023-01-22 13:17:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,69 +32,69 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-22 13:13:16</sys_created_on>
-            <sys_id>8b3f66a197e46110a94f7cb0f053af3e</sys_id>
+            <sys_created_on>2023-01-22 13:17:23</sys_created_on>
+            <sys_id>9f2076e197e46110a94f7cb0f053aff7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_892775_wish_list_wish_item" sys_domain="global" view="Default view">544da62197e46110a94f7cb0f053af3b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-22 13:13:16</sys_updated_on>
+            <sys_updated_on>2023-01-22 13:17:23</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>quantity</element>
+            <element>item</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-22 13:13:16</sys_created_on>
-            <sys_id>0f3f66a197e46110a94f7cb0f053af3e</sys_id>
+            <sys_created_on>2023-01-22 13:17:23</sys_created_on>
+            <sys_id>132076e197e46110a94f7cb0f053aff8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_892775_wish_list_wish_item" sys_domain="global" view="Default view">544da62197e46110a94f7cb0f053af3b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-22 13:13:16</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_display_name</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-22 13:13:16</sys_created_on>
-            <sys_id>8f3f66a197e46110a94f7cb0f053af3e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_892775_wish_list_wish_item" sys_domain="global" view="Default view">544da62197e46110a94f7cb0f053af3b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-22 13:13:16</sys_updated_on>
+            <sys_updated_on>2023-01-22 13:17:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-22 13:13:16</sys_created_on>
-            <sys_id>033f66a197e46110a94f7cb0f053af3f</sys_id>
+            <sys_created_on>2023-01-22 13:17:23</sys_created_on>
+            <sys_id>932076e197e46110a94f7cb0f053aff8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_892775_wish_list_wish_item" sys_domain="global" view="Default view">544da62197e46110a94f7cb0f053af3b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-22 13:13:16</sys_updated_on>
+            <sys_updated_on>2023-01-22 13:17:23</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>url</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-22 13:13:16</sys_created_on>
-            <sys_id>833f66a197e46110a94f7cb0f053af3f</sys_id>
+            <sys_created_on>2023-01-22 13:17:23</sys_created_on>
+            <sys_id>172076e197e46110a94f7cb0f053aff8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_892775_wish_list_wish_item" sys_domain="global" view="Default view">544da62197e46110a94f7cb0f053af3b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-22 13:13:16</sys_updated_on>
+            <sys_updated_on>2023-01-22 13:17:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-22 13:17:23</sys_created_on>
+            <sys_id>972076e197e46110a94f7cb0f053aff8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_892775_wish_list_wish_item" sys_domain="global" view="Default view">544da62197e46110a94f7cb0f053af3b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-22 13:17:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -105,7 +105,7 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-22 13:04:37</sys_created_on>
+            <sys_created_on>2023-01-22 13:17:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>544da62197e46110a94f7cb0f053af3b</sys_id>
